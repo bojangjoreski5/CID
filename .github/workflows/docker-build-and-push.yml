@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: bojangjoreski5/test2
+          tags: bojangjoreski5/test2:latest
